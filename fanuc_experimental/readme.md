@@ -1,0 +1,22 @@
+# Fanuc experimental
+
+<!--[![Build Status](http://build.ros.org/job/Idev__fanuc_experimental__ubuntu_trusty_amd64/badge/icon)](http://build.ros.org/job/Idev__fanuc_experimental__ubuntu_trusty_amd64)-->
+
+Experimental packages for Fanuc manipulators within [ROS-Industrial][].
+See the [ROS wiki][] page for more information.
+
+
+## Contents
+
+This repository contains packages that will be migrated to the [fanuc][]
+repository after they have received sufficient testing. The contents of
+these packages are subject to change, without prior notice. Any available
+APIs are to be considered unstable and are not guaranteed to be complete
+and / or functional.
+
+
+<!--[ROS-Industrial]: http://wiki.ros.org/Industrial-->
+<!--[ROS wiki]: http://wiki.ros.org/fanuc_experimental-->
+<!--[fanuc]: https://github.com/ros-industrial/fanuc-->
+
+Esta package foi alterada de modo a incluir o gripper e redifinir o TCP.
